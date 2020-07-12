@@ -6,4 +6,4 @@ I came across an article on dev.to regarding this calculator and i thought to ma
 The original github repo is [this](https://github.com/Mohammad-Farmaan/JavaScript-Calculator).
 
 ## Demo 
-[Click here](https://jlohani-calculator.000webhostapp.com/)
+[Click here](https://jlohani-calculator.netlify.app/)
